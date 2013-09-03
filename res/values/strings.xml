@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exp</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="kakunin_sex">kakunin_sex</string>
+    <string name="kakunin_weight">kakunin_weight</string>
+    <string name="kakunin_temp">kakunin_temp</string>
+    
+    <string name="finish_time">finish_time</string>
+    <string name="finish_walk">finish_walk</string>
+    <string name="test">desc</string>
+
+</resources>
